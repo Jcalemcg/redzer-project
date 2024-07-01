@@ -1,0 +1,4 @@
+project_name: Redzer
+project_dir: .
+venv_dir: venv
+requirements_file: requirements.txt
